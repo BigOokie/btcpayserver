@@ -26,6 +26,8 @@ namespace BTCPayServer
                 CryptoImagePath = "imlegacy/skycoin.png",
                 DefaultSettings = BTCPayDefaultSettings.GetDefaultSettings(NetworkType),
                 //https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+                
+                // TODO: Need to figure out what the below needs to be
                 CoinType = NetworkType == NetworkType.Mainnet ? new KeyPath("5'")
                     : new KeyPath("1'"),
                 MinFee = Money.Satoshis(1m)
