@@ -55,6 +55,7 @@ namespace BTCPayServer
             InitFeathercoin();
             InitGroestlcoin();
             InitViacoin();
+            InitSkycoin();
 
             // Disabled because of https://twitter.com/Cryptopia_NZ/status/1085084168852291586
             //InitPolis();
