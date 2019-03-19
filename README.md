@@ -55,6 +55,7 @@ Bitcoin is the only focus of the project and its core developers. However, suppo
 * Litecoin (LTC)
 * Monacoin (MONA)
 * Polis (POLIS)
+* Skycoin (SKY) - WIP
 * Viacoin (VIA)
 
 Altcoins are maintained by their respective communities.
